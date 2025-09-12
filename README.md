@@ -1,8 +1,8 @@
 This project focuses on predicting credit card defaulters using American Express(AMEX) dataset.
 
 # Dataset Preparation:
-** Original Dataset **: The original dataset was a 16.4 GB CSV file.
-** Conversion **: The CSV file was converted into a 4.7 GB Parquet file for optimized performance.
+**Original Dataset**: The original dataset was a 16.4 GB CSV file.
+**Conversion**: The CSV file was converted into a 4.7 GB Parquet file for optimized performance.
 
 # Exploratory Data Analysis (EDA):
 EDA was conducted to gain insights. This includes:
@@ -13,7 +13,7 @@ Correlation checks(high correlation and low correlation) were performed to reduc
 # Current Status:
 Dataset loading and conversion
 Completed initital EDA
-** Next Step **: Flattening the dataset and model development
+**Next Step**: Flattening the dataset and model development
 
 # Next Steps:
 Flattening the dataset for model implementation
