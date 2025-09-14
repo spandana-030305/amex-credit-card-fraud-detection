@@ -13,10 +13,10 @@ EDA was conducted to gain insights. This includes:
 # Current Status:
 - Dataset loading and conversion
 - Completed initital EDA
-- **Next Step**: Flattening the dataset and model development
+- Flattened the dataset
+- **Next Step**: Model development
 
 # Next Steps:
-- Flattening the dataset for model implementation
 - Implementing baseline machine learning model(Perpetual Booster(a GBM algorithm))
 - Evaluating models using various evaluation metrics
 - Deploying the trained model for real-time fraud detection
