@@ -12,7 +12,7 @@ EDA was conducted to gain insights. This includes:
 
 # Model Development:
 - The LightGBM(Light Gradient Boosting Model) was chosen for model development due to its speed and efficincy.
-- The dataset was split into a ratio of 70:20:10 in which 70% of the dataset was used as training set, 20% of the dataset was used as validation set and the rest 10% of the dataset was used as test set.
+- The dataset was split into a ratio of 70:20 in which 70% of the dataset was used as training set, 20% of the dataset was used as validation set and the dataset was AMEX's test dataset provided in Kaggle.
 - The LightGBM model was trained, validated and tested, achieving an accuracy of 95% which includes various evaluation metrics such as ROC-AUC score and F1-score.
 
 # Current Status:
