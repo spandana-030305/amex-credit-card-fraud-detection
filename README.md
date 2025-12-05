@@ -22,5 +22,5 @@ EDA was conducted to gain insights. This includes:
 - Model development
 - **Next Step**: Model Deployment
 
-# Next Steps:
+# Next Step:
 - Deploying the trained model for real-time fraud detection
