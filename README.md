@@ -10,13 +10,17 @@ EDA was conducted to gain insights. This includes:
 - Analysis of missing values and implementation of imputation strategies
 - Correlation checks(high correlation and low correlation) were performed to reduce redundancy
 
+# Model Development:
+- The LightGBM(Light Gradient Boosting Model) was chosen for model development due to its speed and efficincy.
+- The dataset was split into a ratio of 70:20:10 in which 70% of the dataset was used as training set, 20% of the dataset was used as validation set and the rest 10% of the dataset was used as test set.
+- The LightGBM model was trained, validated and tested, achieving an accuracy of 95% which includes various evaluation metrics such as ROC-AUC score and F1-score.
+
 # Current Status:
 - Dataset loading and conversion
 - Completed initital EDA
 - Flattened the dataset
-- **Next Step**: Model development
+- Model development
+- **Next Step**: Model Deployment
 
 # Next Steps:
-- Implementing baseline machine learning model(Perpetual Booster(a GBM algorithm))
-- Evaluating models using various evaluation metrics
 - Deploying the trained model for real-time fraud detection
